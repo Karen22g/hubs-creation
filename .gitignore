@@ -1,0 +1,28 @@
+# Credenciales — NUNCA subir
+env.txt
+.env
+*.env
+**/env.txt
+
+# Datos pesados (>5MB)
+1.4 parquet_123/123oldloadsready.csv
+1.4 parquet_123/dfaugustoready.csv
+1.4 parquet_123/loadboard_full.csv
+2. cleaning_loads/hubs_assign.csv
+utils/hubs_assign.csv
+utils/uscities.csv
+
+# Datos binarios / intermedios
+*.parquet
+*.pkl
+*.feather
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

@@ -1,0 +1,565 @@
+Equip
+"['Flatbed', 'StepDeck', 'LessThanTruckload']"
+['Truck&Trailer']
+"['Flatbed', 'Conestoga', 'HotShot', 'StepDeck']"
+['HotShot' 'CargoVan']
+['HotShot']
+"['Van', 'Flatbed']"
+"['HotShot', 'BoxTruck', 'Reefer']"
+['Flatbed' 'Conestoga' 'Reefer']
+['Flatbed' 'StepDeck' 'Conestoga']
+"['Van', 'BoxTruck']"
+['PowerOnly' 'StepDeck']
+"['StepDeck', 'Van', 'Flatbed', 'HotShot']"
+['Flatbed' 'Container' 'Conestoga']
+['LessThanTruckload' 'Reefer']
+['BoxTruck' 'Van']
+"['Flatbed', 'Van', 'Conestoga', 'StepDeck']"
+"['Reefer', 'Dray']"
+['BoxTruck' 'Flatbed' 'Conestoga' 'StepDeck']
+"['Reefer', 'StepDeck', 'Van']"
+"['Flatbed', 'HotShot', 'Van']"
+['GooseNeck' 'HotShot' 'StepDeck']
+['Flatbed' 'StepDeck' 'HotShot' 'Van']
+"['Van', 'Reefer', 'Flatbed']"
+"['Van', 'Flatbed', 'LTL']"
+['StepDeck' 'Van' 'Flatbed']
+['HotShot' 'Flatbed']
+"['other', 'BoxTruck']"
+"['Van', 'Reefer', 'Flatbed', 'LessThanTruckload']"
+['Reefer' 'LessThanTruckload']
+"['HotShot', 'CargoVan']"
+['StepDeck' 'LessThanTruckload']
+"['Van', 'Flatbed', 'BoxTruck']"
+"['StepDeck', 'Conestoga']"
+['Flatbed' 'GooseNeck' 'PowerOnly']
+"['BoxTruck', 'Flatbed']"
+['BoxTruck' 'HotShot']
+"['Container', 'StepDeck']"
+"['Van', 'BoxTruck', 'HotShot', 'Reefer']"
+['LessThanTruckload' 'Flatbed' 'HotShot']
+"['Flatbed', 'Conestoga', 'GooseNeck']"
+"['Van', 'Van', 'Reefer']"
+['Flatbed' 'Van' 'StepDeck']
+"['Flatbed', 'Conestoga', 'Van']"
+"['Van', 'Conestoga']"
+"['StepDeck', 'HotShot']"
+['Van' 'LTL']
+"['Reefer', 'CargoVan']"
+"['Flatbed', 'HotShot', 'PowerOnly', 'StepDeck']"
+['DoubleDrop']
+"['Flatbed', 'Reefer']"
+['Flatbed' 'GooseNeck' 'StepDeck' 'HotShot']
+['Van' 'Flatbed' 'Reefer']
+"['Conestoga', 'StepDeck']"
+['Van' 'Reefer' 'PowerOnly']
+"['Flatbed', 'Van', 'StepDeck']"
+['Flatbed' 'Van' 'HotShot']
+['Flatbed' 'Conestoga' 'GooseNeck']
+['BoxTruck' 'StepDeck']
+['Flatbed' 'HotShot' 'BoxTruck']
+"['Flatbed', 'Reefer', 'Van']"
+['Van' 'Container']
+['BoxTruck' 'Reefer' 'Van']
+"['Van', 'HotShot']"
+"['Flatbed', 'PowerOnly']"
+['PowerOnly' 'Container']
+['Flatbed' 'GooseNeck' 'StepDeck' 'Van']
+['HotShot' 'Flatbed' 'LessThanTruckload']
+"['Flatbed', 'Van', 'Conestoga']"
+['Flatbed' 'HotShot']
+"['PowerOnly', 'StepDeck', 'Van']"
+"['Flatbed', 'HotShot', 'Reefer']"
+['Van' 'Flatbed' 'HotShot' 'StepDeck']
+['Other' 'Reefer']
+['Van' 'HotShot' 'BoxTruck' 'Reefer']
+"[None, 'Flatbed']"
+['Van' 'Flatbed' 'Conestoga']
+['Reefer' 'Flatbed' 'StepDeck']
+['Reefer' 'StepDeck']
+['Dray']
+['Van' 'Reefer' 'Van']
+['LessThanTruckload' 'Van']
+['StepDeck' 'Conestoga']
+"['Container', 'Flatbed', 'HotShot', 'StepDeck']"
+['LessThanTruckload' 'Flatbed' 'StepDeck']
+"['Container', 'Flatbed', 'Conestoga', 'StepDeck']"
+"['other', 'Van']"
+"['Flatbed' 'Reefer' 'StepDeck' 'GooseNeck' 'HotShot' 'BoxTruck'
+ 'Conestoga']"
+['Conestoga' 'StepDeck']
+"['Van', 'Flatbed', 'HotShot']"
+['Flatbed' 'Conestoga']
+['StepDeck' 'GooseNeck' 'HotShot']
+['Flatbed' 'HotShot' 'StepDeck' 'Van']
+"['PowerOnly', 'Van']"
+['Flatbed' 'GooseNeck' 'Conestoga' 'StepDeck']
+['Van' 'LessThanTruckload']
+"['Flatbed', 'GooseNeck']"
+['StepDeck' 'BoxTruck' 'Flatbed' 'HotShot']
+['Van' 'BoxTruck' 'Reefer']
+[]
+['BoxTruck' 'Reefer']
+['Flatbed' 'Conestoga' 'StepDeck' 'Van']
+['LessThanTruckload' 'HotShot']
+"['StepDeck', 'Flatbed', 'Conestoga']"
+['HotShot' 'BoxTruck']
+['Bulk' 'Other']
+"['PowerOnly', 'LessThanTruckload']"
+['Flatbed' 'Van' 'Reefer']
+"['LTL', 'Other']"
+"['Bulk', 'Van']"
+['Flatbed' 'GooseNeck' 'Conestoga']
+['BoxTruck' 'HotShot' 'Flatbed' 'Conestoga' 'StepDeck']
+"['Reefer', 'LTL', 'Dray', 'Van']"
+"['Flatbed', 'GooseNeck', 'StepDeck', 'Conestoga']"
+"[None, 'Reefer']"
+['Van' 'Flatbed' None]
+"['Container', 'Flatbed', 'StepDeck']"
+['Van' 'Van' 'Reefer' 'Reefer']
+['Flatbed' 'GooseNeck' 'HotShot' 'StepDeck']
+['LessThanTruckload' 'Flatbed' 'Van']
+['HotShot' 'StepDeck']
+"['Van', 'BoxTruck', 'Reefer']"
+"['LTL', 'Flatbed']"
+['PowerOnly' 'Van']
+['StepDeck' 'Container' 'Flatbed']
+['DumpTruck']
+['Flatbed' 'StepDeck' 'GooseNeck']
+['Flatbed' 'LTL']
+['Reefer' None]
+['StepDeck' 'Flatbed' 'GooseNeck' 'HotShot']
+['Van' 'Reefer' 'BoxTruck']
+['Flatbed' 'Van' 'BoxTruck' 'HotShot']
+"[None, 'Van', 'Flatbed']"
+['Van' 'Reefer' 'Flatbed' 'StepDeck']
+"['Reefer', 'other', 'other']"
+['Container' 'StepDeck']
+['Van' 'Flatbed' 'LessThanTruckload']
+['Van' 'Other']
+['Container' 'Flatbed' 'Van']
+"['LessThanTruckload', 'StepDeck']"
+['StepDeck' 'Flatbed' 'GooseNeck' 'HotShot' 'Conestoga']
+"['StepDeck', 'Flatbed']"
+"['CargoVan', 'BoxTruck']"
+"['LessThanTruckload', 'Container']"
+"['Flatbed', 'StepDeck', 'Conestoga']"
+['LTL' 'Van' 'Reefer']
+['BTrain']
+['Flatbed' 'GooseNeck' 'StepDeck' 'Container']
+['Flatbed' 'PowerOnly' 'Reefer']
+"['Other', 'Van']"
+"['Reefer', 'PowerOnly']"
+"['Van', 'Flatbed', 'HotShot', 'BoxTruck']"
+"['Van', 'Van', 'Reefer', 'Reefer']"
+['BoxTruck' 'Flatbed' 'HotShot']
+"['LessThanTruckload', 'BoxTruck']"
+"['Flatbed', 'Conestoga']"
+['Flatbed' 'StepDeck' 'HotShot']
+"['Reefer', 'BoxTruck', 'HotShot']"
+"['LessThanTruckload', 'Van']"
+['RemovableGooseneck']
+"['LessThanTruckload', 'GooseNeck']"
+"['GooseNeck', 'Flatbed']"
+"['BoxTruck', 'HotShot']"
+['Container' 'Flatbed' 'Conestoga']
+['Van' 'BoxTruck' 'HotShot' 'Flatbed']
+['CargoVan' 'BoxTruck']
+"['Flatbed', 'LessThanTruckload']"
+['LessThanTruckload' 'Flatbed' 'Conestoga']
+"['StepDeck', 'Container']"
+['LessThanTruckload' 'Van' 'Reefer']
+"['Van', 'Flatbed', 'Reefer']"
+"['LTL', 'Van', 'Reefer']"
+"['Flatbed', 'GooseNeck', 'PowerOnly']"
+"['LTL', 'Reefer', 'Flatbed', 'Van']"
+['StepDeck' 'HotShot' 'GooseNeck' 'Flatbed']
+['Flatbed' 'Conestoga' 'StepDeck']
+"['Van', 'BoxTruck', 'HotShot']"
+['BoxTruck' 'Flatbed' 'Conestoga' 'Van']
+"['Van', 'Reefer', 'BoxTruck']"
+['Flatbed' 'Container' 'PowerOnly']
+['Container' 'Flatbed' 'HotShot' 'PowerOnly']
+"['LessThanTruckload', 'Reefer']"
+['Flatbed' 'PowerOnly' 'StepDeck']
+"['HotShot', 'Flatbed']"
+['Van' 'Conestoga']
+['Van' 'Container' 'StepDeck']
+"['Flatbed', 'LessThanTruckload', 'StepDeck']"
+['LessThanTruckload' 'Flatbed']
+['Flatbed' 'GooseNeck']
+"['LessThanTruckload', 'Flatbed', 'Conestoga']"
+['Other' None]
+['BoxTruck' 'HotShot' 'Flatbed' 'Conestoga']
+"['Flatbed', 'HotShot', 'StepDeck', 'Container']"
+['BoxTruck' 'Flatbed' 'HotShot' 'StepDeck']
+['LTL' 'Other']
+"['BoxTruck', 'Flatbed', 'HotShot', 'Van']"
+"['Van', 'LTL']"
+['LTL']
+['Reefer']
+['Flatbed' 'StepDeck' 'GooseNeck' 'HotShot']
+['Reefer' 'Van' 'LTL']
+['StepDeck' 'Flatbed' 'GooseNeck']
+"['Van', 'HotShot', 'BoxTruck', 'Reefer']"
+"['Conestoga', 'Flatbed', 'StepDeck']"
+['Container']
+"['other', 'Van', 'BoxTruck']"
+"['Flatbed', 'BoxTruck', 'StepDeck', 'Conestoga']"
+['BoxTruck' 'HotShot' 'Flatbed']
+['Van' 'BoxTruck' 'Conestoga']
+"['BoxTruck', 'Flatbed', 'Conestoga', 'Van']"
+['Flatbed' 'Conestoga' 'HotShot' 'Reefer']
+"['Van', 'PowerOnly', 'Reefer']"
+"['Van', 'Flatbed', 'StepDeck']"
+"['StepDeck', 'Van']"
+"['Flatbed', 'Conestoga', 'BoxTruck']"
+"['Van', 'BoxTruck', 'Flatbed']"
+"['Reefer', 'Other']"
+['Reefer' 'Reefer' 'Reefer']
+"['Van', 'Flatbed', 'Conestoga', 'Reefer']"
+['Van' 'Conestoga' 'StepDeck']
+"['Van', 'PowerOnly']"
+['Container' 'Flatbed' 'GooseNeck']
+"['Van', 'LTL', 'Reefer']"
+['Reefer' 'Van']
+['Flatbed' 'LessThanTruckload' 'Conestoga']
+['Van' 'Dray']
+"['Flatbed', 'StepDeck', 'GooseNeck']"
+"['Reefer', 'BoxTruck']"
+"['BoxTruck', 'Reefer', 'Van']"
+['Reefer' 'HotShot']
+"[None, 'Flatbed', 'Reefer']"
+"['HotShot', 'PowerOnly']"
+"['Flatbed', 'LTL']"
+['HotShot' 'Flatbed' 'StepDeck' 'Conestoga']
+['Flatbed' 'BoxTruck' 'HotShot']
+['GooseNeck' 'Flatbed']
+['Van' 'Flatbed']
+"['Van', 'Flatbed', 'Conestoga', 'StepDeck']"
+['Van']
+['Van' 'Van' 'Van' 'Van']
+['StepDeck' 'HotShot' 'GooseNeck' 'Conestoga']
+"['LessThanTruckload', 'Conestoga']"
+['StepDeck' 'Flatbed' 'HotShot' 'Conestoga']
+['Flatbed' 'GooseNeck' 'StepDeck' 'Conestoga']
+"['Container', 'Flatbed']"
+"['StepDeck', 'LessThanTruckload']"
+['Reefer' 'LTL']
+['HotShot' 'PowerOnly']
+['HotShot' 'StepDeck' 'Flatbed']
+['Van' 'Flatbed' 'StepDeck' 'HotShot' 'Conestoga']
+['LTL' 'Dray']
+"['Flatbed', 'HotShot', 'StepDeck']"
+['Flatbed' 'StepDeck' 'LessThanTruckload']
+['Van' 'BoxTruck' 'Flatbed']
+"['Van', 'Dray']"
+['Flatbed' 'HotShot' 'StepDeck' 'Container']
+['BoxTruck' 'Flatbed' 'HotShot' 'Van']
+['Flatbed' 'Conestoga' 'HotShot']
+"['Reefer', 'LessThanTruckload']"
+['AutoCarrier']
+['Flatbed' 'StepDeck' 'PowerOnly']
+"['Dray', 'Flatbed']"
+"['Flatbed', 'GooseNeck', 'Van']"
+"['Van', 'BoxTruck', 'Flatbed', 'Conestoga']"
+['Reefer' 'Dray']
+['GooseNeck' 'StepDeck']
+['Flatbed' 'Container' 'StepDeck']
+['DRY VAN']
+['Van' 'Van' 'LessThanTruckload']
+['Van' 'BoxTruck' 'HotShot']
+['BoxTruck' 'Flatbed' 'Van']
+['LTL' 'Van']
+['Flatbed' 'PowerOnly' 'Van']
+"['StepDeck', 'Flatbed', 'GooseNeck', 'HotShot']"
+['Flatbed' 'LessThanTruckload' 'HotShot']
+['RGN']
+"['GooseNeck', 'LessThanTruckload']"
+['Van' 'Reefer' 'Flatbed' 'LessThanTruckload']
+['Flatbed' 'Van' 'Conestoga']
+['StepDeck' 'Container']
+['Reefer' 'LTL' 'Van']
+['LessThanTruckload' 'GooseNeck']
+['LessThanTruckload' 'StepDeck']
+"['other', 'Flatbed']"
+"['BoxTruck', 'Flatbed', 'Van']"
+"['Reefer', 'Container', 'BoxTruck', 'HotShot']"
+"['LessThanTruckload', 'Van', 'HotShot']"
+['other' 'Flatbed']
+['BoxTruck' 'HotShot' 'Van' 'Reefer']
+['Flatbed' 'LessThanTruckload' 'StepDeck']
+"['Dray', 'Reefer']"
+"['Flatbed', 'Other']"
+['Container' 'Reefer']
+['Van' 'Reefer' 'LessThanTruckload' 'Van']
+"['Flatbed', 'HotShot']"
+['StepDeck' 'HotShot' 'Reefer']
+['Flatbed' 'Conestoga' 'Van' 'StepDeck']
+['HotShot' 'StepDeck' 'GooseNeck']
+['PowerOnly' 'Reefer' 'Van']
+"['Van', 'Other']"
+['POWER ONLY']
+"['Van', 'StepDeck']"
+['Van' 'BoxTruck' 'Flatbed' 'Conestoga']
+['other' 'Van' 'BoxTruck']
+['Van' 'StepDeck']
+"['LessThanTruckload', 'Van', 'Reefer']"
+['LTL' 'Reefer' 'Van']
+['Van' 'Flatbed' 'Conestoga' 'Reefer']
+['HotShot' 'BoxTruck' 'Van']
+"['Flatbed', 'HotShot', 'StepDeck', 'Conestoga']"
+"['Other', 'Flatbed']"
+"['Van', 'Container']"
+['BoxTruck' 'LessThanTruckload']
+['HotShot' 'LessThanTruckload']
+['Flatbed' 'StepDeck' 'Conestoga' 'Van']
+['Van' 'Reefer']
+['other' 'Reefer' 'Container' 'BoxTruck' 'HotShot']
+"['Flatbed', 'Conestoga', 'Van', 'GooseNeck', 'StepDeck']"
+"['Flatbed', 'GooseNeck', 'HotShot']"
+"['Van', 'Flatbed', 'HotShot', 'StepDeck']"
+['GooseNeck' 'LessThanTruckload']
+['Reefer' 'Reefer']
+['Flatbed' 'HotShot' 'StepDeck']
+['Van' 'Reefer' 'Flatbed']
+['Flatbed' 'Van' 'PowerOnly']
+"['LessThanTruckload', 'Flatbed', 'Van']"
+"['Flatbed', 'Van', 'Reefer']"
+"['Flatbed', 'Conestoga', 'Van', 'StepDeck']"
+['Container' 'Flatbed' 'StepDeck']
+['PowerOnly' 'GooseNeck' 'Flatbed']
+"['BoxTruck', 'Van']"
+['Reefer' 'Container' 'BoxTruck' 'HotShot']
+"['LTL', 'Van']"
+['Reefer' 'BoxTruck']
+['Flatbed' 'Conestoga' 'Reefer' 'Van']
+['Van' 'Flatbed' 'GooseNeck' 'Conestoga']
+['Flatbed' 'Van' 'BoxTruck']
+['Flatbed' 'Reefer' 'BoxTruck']
+['other' 'Van']
+['Flatbed' 'Conestoga' 'Van']
+[None]
+['StepDeck' 'Flatbed' 'HotShot']
+['StepDeck' 'GooseNeck']
+"['Other', 'Reefer']"
+"['Van', 'Flatbed', 'LessThanTruckload']"
+['REEFER']
+['Van' 'Reefer' 'Container']
+['Reefer' 'Van' None]
+['Other' 'Flatbed']
+['Flatbed' 'HotShot' 'PowerOnly' 'StepDeck']
+['Flatbed' 'StepDeck' 'HotShot' 'Conestoga']
+['Reefer' 'Container']
+['Flatbed' 'Conestoga' 'Van' 'GooseNeck' 'StepDeck']
+['LessThanTruckload' 'BoxTruck']
+['LessThanTruckload' 'HotShot' 'BoxTruck']
+"['Van', 'Bulk']"
+"['Van', 'Reefer', 'PowerOnly']"
+"['Flatbed', 'HotShot', 'StepDeck', 'Van']"
+"['Flatbed', 'Conestoga', 'StepDeck']"
+['LTL' 'Reefer']
+['BoxTruck' 'StepDeck' 'Conestoga' 'Van']
+['BoxTruck' 'Flatbed' 'StepDeck']
+['Reefer' 'Other']
+"['LTL', 'Reefer']"
+['Van' None]
+['Reefer' 'StepDeck' 'Van']
+"['Van', 'Reefer']"
+['Van' 'Flatbed' 'Conestoga' 'StepDeck']
+['Container' 'Reefer' 'Van']
+['PowerOnly' 'Reefer']
+"['HotShot', 'StepDeck']"
+['Other' 'Van']
+['Container' 'Flatbed' 'GooseNeck' 'StepDeck']
+"['Reefer', 'Reefer']"
+['LessThanTruckload']
+['StepDeck']
+['Reefer' 'BoxTruck' 'HotShot']
+"['Flatbed', 'StepDeck']"
+['Flatbed' 'HotShot' 'StepDeck' 'Conestoga']
+['Flatbed' 'GooseNeck' 'StepDeck']
+"['Van', 'BoxTruck', 'Flatbed', 'HotShot']"
+['StepDeck' 'Conestoga' 'Container']
+"['Flatbed', 'LessThanTruckload', 'Conestoga']"
+['Bulk']
+"['Van', 'Reefer', 'StepDeck']"
+['Flatbed' 'Bulk']
+['Container' 'PowerOnly']
+['Flatbed' 'Reefer' 'Van']
+"['Flatbed', 'BoxTruck']"
+['Van' 'Reefer' None]
+['Van' 'Reefer' 'Flatbed' 'BoxTruck' 'Conestoga' 'Container']
+"['Flatbed', 'Container']"
+"['other', 'Van', 'Reefer']"
+['StepDeck' 'Flatbed' 'Van']
+['Container' 'Flatbed']
+"['PowerOnly', 'Flatbed']"
+"['Van', 'Flatbed', 'Conestoga']"
+['Other' 'LTL']
+['Conestoga' 'Flatbed' 'StepDeck']
+"['Flatbed', 'PowerOnly', 'Van']"
+['StepDeck' 'HotShot' 'Conestoga']
+['Van' 'Van' 'Van']
+"['Flatbed', 'Van']"
+['PowerOnly' 'LessThanTruckload']
+['LessThanTruckload' 'Container']
+['Van' 'Van' 'Reefer']
+['PowerOnly' 'Flatbed' 'HotShot']
+['Flatbed' 'BoxTruck']
+"['BoxTruck', 'Flatbed', 'Conestoga', 'StepDeck']"
+"['Flatbed', 'Conestoga', 'HotShot']"
+['Reefer' 'Van' 'Dray']
+['Van' 'HotShot' 'BoxTruck']
+['Van' 'LTL' 'Reefer']
+[None 'Van']
+['GooseNeck' 'Flatbed' 'LessThanTruckload']
+['other' 'BoxTruck']
+['FLATBED']
+['Flatbed' 'HotShot' 'Van']
+['Flatbed' 'GooseNeck' 'Van']
+['Van' 'Reefer' 'Reefer']
+"['LessThanTruckload', 'Flatbed', 'HotShot']"
+"['Flatbed', 'StepDeck', 'Van']"
+"['HotShot', 'Flatbed', 'LessThanTruckload']"
+"['GooseNeck', 'Flatbed', 'StepDeck']"
+"['Flatbed', 'PowerOnly', 'StepDeck']"
+['HotShot' 'Flatbed' 'StepDeck']
+['LTL' 'Flatbed']
+"['Flatbed', 'Conestoga', 'StepDeck', 'HotShot']"
+"['Reefer', 'LTL']"
+['Flatbed' 'StepDeck' 'Container']
+['Van' 'Reefer' 'LessThanTruckload']
+"['Flatbed', 'Hotshot']"
+['Van' 'Flatbed' 'Container' 'StepDeck' 'HotShot']
+['PowerOnly']
+['Conestoga' 'StepDeck' 'Container']
+['Van' 'BoxTruck']
+['Van' 'HotShot' 'Reefer']
+"['Van', 'PowerOnly', 'Other']"
+"['Reefer', 'Van', 'LTL']"
+['Flatbed']
+"['Reefer', 'Flatbed']"
+['Van' 'Reefer' 'LTL']
+"['HotShot', 'LessThanTruckload']"
+"['Reefer', 'Dray', 'Van']"
+['Flatbed' 'Conestoga' 'HotShot' 'StepDeck']
+['Van' 'PowerOnly']
+['Flatbed' 'HotShot' 'LessThanTruckload']
+['Flatbed' 'PowerOnly']
+['Van' 'StepDeck' 'Conestoga']
+['StepDeck' 'Conestoga' 'Van']
+"['Flatbed', 'Van', 'HotShot']"
+"['LessThanTruckload', 'Flatbed', 'StepDeck']"
+['Flatbed' 'BoxTruck' 'Van']
+['other']
+['HotShot' 'Conestoga' 'StepDeck' 'Flatbed']
+['Flatbed' 'Container']
+['Flatbed' 'Reefer']
+['Flatbed' 'StepDeck' 'Container' 'Conestoga']
+"[None, 'Van', 'Reefer']"
+['Van' 'Flatbed' 'StepDeck' 'HotShot']
+['StepDeck' 'Flatbed' 'Conestoga']
+['Flatbed' 'BoxTruck' 'StepDeck']
+['Flatbed' 'Van' 'Conestoga' 'StepDeck']
+['Reefer' 'PowerOnly']
+"['Van', None]"
+"['Van', 'LessThanTruckload']"
+['Flatbed' 'Conestoga' 'StepDeck' 'HotShot']
+['Flatbed' 'StepDeck' 'GooseNeck' 'HotShot' 'BoxTruck']
+['Flatbed' 'Conestoga' 'StepDeck' 'Container']
+['StepDeck' 'PowerOnly']
+"['Van', 'LTL', 'PowerOnly']"
+"['Flatbed', 'GooseNeck', 'HotShot', 'StepDeck']"
+['StepDeck' 'HotShot']
+['Flatbed' 'Flatbed']
+"['Van', 'Reefer', 'BoxTruck', 'HotShot']"
+['Flatbed' 'HotShot' 'Conestoga' 'StepDeck']
+"['BoxTruck', 'HotShot', 'Van']"
+"[None, 'Flatbed', 'Van']"
+['Tanker']
+"['Reefer', 'HotShot']"
+"['StepDeck', 'Flatbed', 'HotShot']"
+"['Reefer', None, 'Van']"
+['Van' 'BoxTruck' 'Flatbed' 'HotShot']
+"['LessThanTruckload', 'PowerOnly']"
+"['Flatbed', 'Conestoga', 'StepDeck', 'Van']"
+"['StepDeck', 'Van', 'Flatbed']"
+"['LessThanTruckload', 'Flatbed']"
+['HotShot' 'Reefer']
+['StepDeck' 'Flatbed']
+"['Reefer', 'Van']"
+['Van' 'Van']
+['Van' 'Flatbed' 'Reefer' 'LessThanTruckload']
+['HotShot' 'BoxTruck' 'Reefer']
+"['Flatbed', 'HotShot', 'LessThanTruckload']"
+['other' 'Van' 'Reefer']
+['Flatbed' 'StepDeck' 'Van']
+['other' 'Reefer']
+"['Van', 'Reefer', 'LTL']"
+"['GooseNeck', 'StepDeck']"
+['Van' 'PowerOnly' 'StepDeck']
+"['Van', 'HotShot', 'BoxTruck']"
+['Flatbed' 'Conestoga' 'other']
+['Van' 'HotShot']
+['Flatbed' 'LessThanTruckload']
+['Flatbed' 'Other']
+['BoxTruck' 'HotShot' 'Van' 'Flatbed']
+"['LTL', 'Flatbed', 'Van']"
+['Van' 'BoxTruck' 'StepDeck']
+"['BoxTruck', 'HotShot', 'Flatbed']"
+['Other']
+['StepDeck' 'Flatbed' 'HotShot' 'Van']
+['Lowboy']
+"['Van', 'Dray', 'Reefer']"
+"['StepDeck', 'Flatbed', 'GooseNeck']"
+['Flatbed' 'LTL' 'Van']
+"['Reefer', 'Van', 'PowerOnly']"
+"['Flatbed', 'GooseNeck', 'StepDeck']"
+['Van' 'Flatbed' 'StepDeck']
+"['BoxTruck', 'Flatbed', 'HotShot']"
+['Flatbed' 'Van']
+['Van' 'other']
+"['Flatbed', 'BoxTruck', 'HotShot']"
+"['Reefer', 'LTL', 'Van']"
+['Refeer']
+['BoxTruck' 'HotShot' 'Van']
+['BoxTruck' 'Flatbed' 'Conestoga']
+"['Van', 'Reefer', 'LessThanTruckload']"
+['Van' 'Flatbed' 'HotShot' 'BoxTruck']
+['LessThanTruckload' 'Van' 'HotShot']
+"['Flatbed', 'StepDeck', 'HotShot']"
+"['LTL', 'Reefer', 'Van']"
+"['Van', 'other', 'Reefer']"
+"['Flatbed', 'Conestoga', 'GooseNeck', 'StepDeck']"
+['Flatbed' 'Reefer' 'StepDeck']
+['GooseNeck']
+['Conestoga']
+"['other', 'Reefer']"
+"['Dray', 'Van']"
+['StepDeck' 'Van']
+"['BoxTruck', 'HotShot', 'Reefer']"
+['Van' 'Bulk']
+"[None, 'Van']"
+"['Flatbed', 'HotShot', 'PowerOnly']"
+"['BoxTruck', 'Reefer']"
+"['Van', 'Flatbed', 'Reefer', 'LessThanTruckload']"
+['Flatbed' 'GooseNeck' 'HotShot']
+['GooseNeck' 'Flatbed' 'StepDeck']
+['BoxTruck']
+['LessThanTruckload' 'PowerOnly']
+"['Van' 'Reefer' 'Flatbed' 'Container' 'StepDeck' 'GooseNeck' 'HotShot'
+ 'BoxTruck' 'Conestoga']"
+"['Van', 'Van']"
+['Van' 'Flatbed' 'HotShot']
+"['Reefer', 'StepDeck']"
+['Flatbed' 'StepDeck' 'GooseNeck' 'HotShot' 'Conestoga']
+['PowerOnly' 'Flatbed']
+"['Flatbed', 'Conestoga', 'Reefer', 'Van']"
+['Van' 'Reefer' 'Flatbed' 'Conestoga']
+['Flatbed' 'StepDeck']
+['Van' 'Flatbed' 'StepDeck' 'Conestoga']
+['LessThanTruckload' 'Reefer' 'Van']
+['BoxTruck' 'HotShot' 'Reefer']
+['Flatbed' 'HotShot' 'PowerOnly']
+['Van' 'Van' 'Van' 'Van' 'Van']
