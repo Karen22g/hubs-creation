@@ -44,7 +44,7 @@ Genera una tabla de coordenadas únicas con su asignación a hubs M2 (50 / 100 /
 | | |
 |---|---|
 | **Input** | `final_results.csv` (192 hubs M2) |
-| **Input** | `../2. cleaning_loads/parquetloadsfull.parquet` ⚠️ Drive |
+| **Input** | `../2. cleaning_loads/parquetloadsfull.parquet` (generado por `2. cleaning_loads/3. cleaning_full.ipynb`) |
 | **Output** | `coords_assign_m2.parquet` (738,827 coords únicas con asignación) |
 
 ### `2.1 analisis cobertura.ipynb` — ¿Se necesitan más hubs M2?
@@ -64,7 +64,7 @@ Mueve cada hub M2 hasta 80mi para maximizar la cobertura exclusiva (anti-solapam
 |---|---|
 | **Input** | `final_results.csv` (192 hubs → filtra a 188) |
 | **Input** | `coords_assign_m2.parquet` |
-| **Input** | `../2. cleaning_loads/parquetloadsfull.parquet` ⚠️ Drive |
+| **Input** | `../2. cleaning_loads/parquetloadsfull.parquet` (generado por `2. cleaning_loads/3. cleaning_full.ipynb`) |
 | **Output** | `final_results_optimized.csv` (188 hubs con centroides optimizados) |
 
 ### `2.3 assign_hubs_optimized.ipynb` — Asignación M2 con centroides optimizados
@@ -73,7 +73,7 @@ Regenera `coords_assign_m2.parquet` usando los centroides optimizados.
 | | |
 |---|---|
 | **Input** | `final_results_optimized.csv` (188 hubs) |
-| **Input** | `../2. cleaning_loads/parquetloadsfull.parquet` ⚠️ Drive |
+| **Input** | `../2. cleaning_loads/parquetloadsfull.parquet` (generado por `2. cleaning_loads/3. cleaning_full.ipynb`) |
 | **Output** | `coords_assign_m2.parquet` (sobreescribe con centroides optimizados) |
 
 ### `3_comparacion_hubs.ipynb` — Comparación M1 vs M2
@@ -81,8 +81,8 @@ Genera los parquets de asignación de cargas para ambos métodos y calcula cober
 
 | | |
 |---|---|
-| **Input** | `../2. cleaning_loads/parquetloadsfull.parquet` ⚠️ Drive |
-| **Input** | `../otros/*.csv` (4 CSVs M1 con asignación de coordenadas) ⚠️ Drive |
+| **Input** | `../2. cleaning_loads/parquetloadsfull.parquet` (generado por `2. cleaning_loads/3. cleaning_full.ipynb`) |
+| **Input** | `../otros/*.csv` (4 CSVs M1 con asignación de coordenadas, generados por `2. cleaning_loads/4_assign_hubs.ipynb`) |
 | **Input** | `coords_assign_m2.parquet` |
 | **Output** | `loads_assign_m1.parquet`, `loads_assign_m2.parquet` |
 
@@ -116,13 +116,17 @@ Calcula cobertura y deadhead para V3 con radio 75mi, genera la tabla comparativa
 
 ---
 
-## Dependencias externas ⚠️
+## Archivos intermedios (generados, no en repo)
 
-Los archivos grandes no están en el repositorio por tamaño:
+Los archivos `.parquet` y `.pkl` están en `.gitignore` por tamaño. Se generan ejecutando el pipeline en orden:
 
-| Archivo | Descripción | Dónde obtenerlo |
-|---------|-------------|-----------------|
-| `../2. cleaning_loads/parquetloadsfull.parquet` | 57.6M cargas Feb–Ago 2025 | Google Drive — carpeta `hubs-creation/datos` |
-| `../otros/*.csv` | 4 CSVs con asignación M1 (163,727 coords únicas) | Google Drive — carpeta `hubs-creation/datos` |
-
-> **Nota**: Los archivos `.parquet` están en `.gitignore`. Deben colocarse en las rutas indicadas antes de ejecutar los notebooks.
+| Archivo | Generado por |
+|---------|-------------|
+| `../2. cleaning_loads/parquetloadsfull.parquet` | `2. cleaning_loads/3. cleaning_full.ipynb` |
+| `../otros/*.csv` (4 CSVs M1) | `2. cleaning_loads/4_assign_hubs.ipynb` |
+| `6. results/coords_assign_m2.parquet` | `6. results/1_assign_hubs_m2.ipynb` |
+| `6. results/final_results_optimized.csv` | `6. results/2.2 optimize_hubs_m2.ipynb` |
+| `6. results/loads_assign_m1.parquet` | `6. results/3_comparacion_hubs.ipynb` |
+| `6. results/loads_assign_m2.parquet` | `6. results/3_comparacion_hubs.ipynb` |
+| `6. results/coords_assign_v3.parquet` | `6. results/4_metricas_v3_zonas.ipynb` |
+| `6. results/loads_assign_v3.parquet` | `6. results/4_metricas_v3_zonas.ipynb` |
