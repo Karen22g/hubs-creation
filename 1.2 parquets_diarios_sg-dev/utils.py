@@ -9,6 +9,8 @@ import pandas as pd
 import math
 import csv
 import boto3
+from dotenv import load_dotenv
+load_dotenv()
 
 
 def initialize_boto3(environment):
